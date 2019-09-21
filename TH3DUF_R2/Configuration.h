@@ -809,7 +809,7 @@
 // MISC --------------------------------------------
 
 // If you have a 5015 fan that whines when under 100% speed uncomment the below line.
-//#define FAN_FIX
+#define FAN_FIX
 
 // Use your own printer name
 //#define USER_PRINTER_NAME "CHANGE ME" 
@@ -886,6 +886,7 @@
 // Language - This is provided for convenience and is unsupported with included product support.
 // We only test compile with English language. If you run into space issues disable some features.
 //================================================================================================
+
 
 /**
  * LCD LANGUAGE
