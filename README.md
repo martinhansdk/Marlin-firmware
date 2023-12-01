@@ -41,7 +41,7 @@ To compile and install the firmware again:
 ## Electronics schematic
 The control board is a Melzi control board. The schematic is here: [CR-10 Schematic.pdf](CR-10 Schematic.pdf).
 
-The schematic for the adding of the inductive ABL sensor is at [Installing an inductive auto bed leveling sensor on the CR-10.pdf](Installing an inductive auto bed leveling sensor on the CR-10.pdf).
+The inductive sensor replaces the Z-stop sensor. The schematic for the adding it is at [Installing an inductive auto bed leveling sensor on the CR-10.pdf](Installing an inductive auto bed leveling sensor on the CR-10.pdf).
 
 ## 3D models for the mechanical modifications
 The modified fan assembly is a [Petsfang](http://www.dpetsel.com/) which provides much better part cooling. Additionally, a filament cleaner and a cable management part has been added.
