@@ -38,3 +38,12 @@ To compile and install the firmware again:
   8. Select the serial port under Tools > Port
   9. Upload (the arrow in the tool bar)
 
+## Electronics schematic
+The control board is a Melzi control board. The schematic is here: [CR-10 Schematic.pdf](CR-10 Schematic.pdf).
+
+The schematic for the adding of the inductive ABL sensor is at [Installing an inductive auto bed leveling sensor on the CR-10.pdf](Installing an inductive auto bed leveling sensor on the CR-10.pdf).
+
+## 3D models for the mechanical modififications
+The modified fan assembly is a [Petsfang](http://www.dpetsel.com/) which provides much better part cooling. Additionally, a filament cleaner and a cable management part has been added.
+
+The STLs/3MFs for all of these parts is included in [the `upgrades` folder](upgrades).
